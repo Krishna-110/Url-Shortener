@@ -40,8 +40,8 @@ urlshortner/
    ```
 3. **Configure database credentials** in `src/main/resources/application.properties`:
    ```properties
-   spring.datasource.username=root
-   spring.datasource.password=root
+   spring.datasource.username=(whatever you chose)
+   spring.datasource.password=(whatever you chose)
    spring.datasource.url=jdbc:mysql://localhost:3306/urlshortenerdb?useSSL=false&serverTimezone=UTC
    ```
 4. **Build and run the backend:**
