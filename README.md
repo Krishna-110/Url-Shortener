@@ -8,7 +8,7 @@ A full-stack, production-ready URL shortener built with **Spring Boot (Java)** f
 
 ```
 urlshortner/
-├── urlshortener-frontend/   # React frontend (dark, minimal, beautiful)
+├── urlshortener-frontend/   # React frontend 
 ├── src/                     # Spring Boot backend source code
 ├── pom.xml                  # Maven config for backend
 ├── README.md                # This file
